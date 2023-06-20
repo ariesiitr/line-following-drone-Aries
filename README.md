@@ -71,5 +71,7 @@ Using simulink we created a flow how the components re connected across the Pixh
 ![image](https://github.com/rajaniket2021/line-following-drone-Aries/assets/99840744/d625ba87-c195-4bbf-a342-e239dde1e022)
 ![image](https://github.com/rajaniket2021/line-following-drone-Aries/assets/99840744/02d0bfd6-7375-4db3-9ba6-f6a73c3c4b18)
 
+By-
+Aniket Raj
 
 
